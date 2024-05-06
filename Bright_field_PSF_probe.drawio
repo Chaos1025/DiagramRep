@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T09:15:52.655Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="_abUYObOjH9xKcRZfALP" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-06T09:17:40.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="zmnWtu8WYA8ce5_AxAtd" version="24.3.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="923" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
             <mxPoint x="230" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZVZWPxP480O0gG1tIGuu-0" value="for i=1:J&lt;div&gt;&amp;nbsp; &amp;nbsp; for j=1:J&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;pick s=block[i,j]&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-2">
+        <mxCell id="ZVZWPxP480O0gG1tIGuu-0" value="for i=1:J&lt;div&gt;&amp;nbsp; &amp;nbsp; for j=1:J&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;pick s=block[i,j]&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];labelBorderColor=#3399FF;textShadow=0;textOpacity=80;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-2">
           <mxGeometry x="-0.1494" y="-3" relative="1" as="geometry">
             <mxPoint x="-57" y="7" as="offset" />
           </mxGeometry>
